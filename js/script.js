@@ -374,3 +374,47 @@ function Eben() {
 Eben();
 
 Racheal();
+
+let word = 'Rachael is learning how to use function in javascript'
+
+function Rachael() {
+  console.log(word)
+}
+
+function outputHello() {
+  console.log('Hello')
+}
+outputHello();
+
+//How to write Arrow Function
+
+let currentLocation = ()=>{
+
+}
+currentLocation();
+
+let lesi = () =>{
+
+}
+lesi();
+const precious = () =>{
+  console.log('Presious is learning to use function in javascript')
+}
+precious();
+
+function shalom(a = 6,b = 3, c = 4){
+      let sumTotal = a + b + c;
+      console.log(sumTotal)
+}
+shalom();
+
+//A function that adds two numbers
+function addnum(num1, num2, num3) {
+  console.log(num1 + num2 + num3)
+}
+
+addnum(5,6,9)
+
+// DOM Document Object Model
+
+//Single Element Selector
