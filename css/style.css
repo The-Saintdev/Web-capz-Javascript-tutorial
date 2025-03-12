@@ -6,6 +6,21 @@
     text-decoration: none;
     list-style-type: none;
 }
-#deck{
-    
+#box1{
+    width: 60px;
+    height: 60px;
+    background-color: blueviolet;
+    margin: 1%;
+}
+#box2{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    margin: 1%;
+}
+#box3{
+    width: 60%;
+    height: 60px;
+    background-color: fuchsia;
+    margin: 1%;
 }
